@@ -47,3 +47,44 @@ span {
     font-size: 0.7rem;
 
 }
+
+
+.descrizione{
+    font-size: 1rem;
+    
+}
+
+.importante{
+    background-color: yellow;
+    color: black;
+}
+
+.suggerimento{
+    color: rgb(141, 141, 141);
+}
+
+.monitor{
+    background-image: url(../img/monitor.jpg);
+    width: 20rem;
+    height: 13rem;
+       }
+
+.monitor_testo{
+    font-size: 1.8rem;
+    color: white;
+    margin-left: 20px;
+       }
+
+ .graph{
+    background-image: url(../img/graph.jpg);
+    width: 20rem;
+    height: 13rem;
+       }
+    
+ .graph_testo{
+    font-size: 1.8rem;
+    color: white;
+    margin-left: 20px;
+            }
+
+
