@@ -59,6 +59,25 @@ span {
     color: black;
 }
 
+table {
+    width: 100%;
+    text-align: left;
+    border-collapse: collapse;
+}
+
+thead {
+    color: white;
+    background-color: rgb(32, 169, 229);
+}
+
+
+.blu {
+    background-color: rgb(177, 229, 242);
+}
+td {
+    width: calc(100%/3);
+}
+
 .suggerimento{
     color: rgb(141, 141, 141);
 }
@@ -86,5 +105,5 @@ span {
     color: white;
     margin-left: 20px;
             }
-
+      
 
